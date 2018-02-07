@@ -1,4 +1,4 @@
-#   jQuery JavaScript & CSS :electric_plug:
+# :electric_plug: jQuery JavaScript & CSS :electric_plug:
 
 :sunglasses: That's right. Here I will be maintaining a list of very useful and handy jQuery plugins so that you don't have to search for the appropriate one while working in a project. If you want to add anything new, just fork this :octocat: repository and send me a pull request. Have Fun! :beers:
 
@@ -185,4 +185,91 @@ Pongstagr.am | A jQuery plugin that lets you display your Instagram media to you
 ImgAreaSelect | ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes | [ImgAreaSelect](http://odyniec.net/projects/imgareaselect/) | [ImgAreaSelect](https://github.com/odyniec/imgareaselect) | :heavy_check_mark: | -
 Interactive BG | Create an interactive moving background/object that reacts to viewer's cursor | [Interactive BG](http://www.thepetedesign.com/demos/interactive_bg_demo.html) | [Interactive BG](https://github.com/peachananr/interactive_bg) | :heavy_check_mark: | GPL 3.0
 LightGallery | JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery | [LightGallery](http://sachinchoolur.github.io/lightGallery/) | [LightGallery](https://github.com/sachinchoolur/lightGallery) | :heavy_check_mark: | GPL 3.0
+
+
+
+  > ##### :art: UI Elements - Lightboxes & Modals
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+ Magnific Popup | Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device | [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) |  [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) |  :heavy_check_mark: | MIT
+ FlipLightBox | Responsive Lightbox jQuery Plugin | [FlipLightBox](http://flipgallery.net/fliplightbox.html) | - | :heavy_check_mark: | -
+PrettyPhoto | PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox | [PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) | - | :heavy_check_mark: | -
+Remodal | Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking | [Remodal](http://vodkabears.github.io/remodal/) | [Remodal](https://github.com/vodkabears/Remodal) | :heavy_check_mark: | MIT
+Fluidbox | Amazingly beautiful inline lightbox | [Fluidbox](http://terrymun.github.io/Fluidbox/) | [Fluidbox](https://github.com/terrymun/Fluidbox) | :heavy_check_mark: | MIT
+
+
+  > ##### :art: UI Elements - Others
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+JoyRide - Feature Tour Plugin | As said, it's a beautiful feature tour plugin by Zurb | [Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin) | [Feature Tour Plugin](https://github.com/zurb/joyride) | :heavy_check_mark: | -
+Hubspot Messaging Library | To show transactional messages in your app | [Hubspot Messaging Library](http://github.hubspot.com/messenger/) | [Hubspot Messaging Library](https://github.com/HubSpot/messenger) | :heavy_check_mark: | MIT
+Prezento | Show off your responsive web designs. Include the plugin, apply the settings and you're ready to impress your visitors! | [Prezento](http://ivaldi.github.io/prezento/) | [Prezento](https://github.com/ivaldi/prezento/) | :heavy_check_mark: | AGPL 3.0
+FixTop | A jQuery plugin to fix DOM element to the top when a page scrolls to its position | [FixTop](http://nnattawat.github.io/fixtop/) | [FixTop](https://github.com/nnattawat/fixtop) | :heavy_check_mark: | MIT
+FormChimp | MailChimp ajax plugin for jQuery | [jQuery FormChimp](http://www.fabioquarantini.com/formchimp/) | [jQuery FormChimp](https://github.com/fabioquarantini/formchimp) | :heavy_check_mark: | MIT
+
+
+
+
+  > ##### :art: UI Elements - Responsive Menu
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+FlexiNav | A Device-Agnostic Approach to Complex Site Navigation | [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/) | - | :heavy_check_mark: | - 
+SlimMenu | Another multilevel responsive menu | [SlimMenu](http://adnantopal.github.io/slimmenu) | [SlimMenu](https://github.com/adnantopal/slimmenu) | :heavy_check_mark: | -
+MMenu | A jQuery plugin for creating slick, app look-alike sliding menus for you mobile website with only one line of javascript | [MMenu](http://mmenu.frebsite.nl/) | - | :heavy_check_mark: | Not Free
+
+
+
+
+  > ##### :art: UI Elements - Scrollers
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+ NanoScroller.js | nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website | [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/) | [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS) | :heavy_check_mark: | MIT
+ NiceScroll | Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style | [NiceScroll](https://nicescroll.areaaperta.com/) | [NiceScroll](https://github.com/inuyaksa/jquery.nicescroll) | :heavy_check_mark: | MIT
+jQuery Custom Content Scrolle | Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc | [jQuery Custom Content Scrolle](http://manos.malihu.gr/jquery-custom-content-scroller/) | [jQuery Custom Content Scrolle](https://github.com/malihu/malihu-custom-scrollbar-plugin) | :heavy_check_mark: | MIT
+
+
+
+
+  > ##### :art: UI Elements - Social Sharing
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+ Instafeed.js | Instafeed.js is a dead-simple way to add Instagram photos to your website. No jQuery required, just plain 'ol javascript | [instafeedjs](http://instafeedjs.com/) | [instafeedjs](https://github.com/stevenschobert/instafeed.js) | :x: | MIT
+ jQuery Tweetable | A simple li'l plugin that lets you make site content easily tweetable | -| [jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js) | :heavy_check_mark: | -
+ Share Button | fast, beautiful, and painless social shares | [Share Button](https://sharebutton.co/) | [Share Button](https://github.com/carrot/share-button) | :heavy_check_mark: | MIT
+ Slide Social Button | Slide Social Buttons are a fun way to display your social media buttons | [Slide Social Button](http://christopheryee.ca/slide-social-buttons/) | [Slide Social Butto](https://github.com/christophery/slide-social-buttons) | :heavy_check_mark: | MIT
+
+
+
+
+  > ##### :art: UI Elements - Tables
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+TableCloth.js | Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations | -| [TableCloth.js](https://github.com/bwsewell/tablecloth) | :heavy_check_mark: | MIT
+EditTable | Adds editing capability in your table elements | [EditTable](http://codeb.it/edittable/) | [EditTable](https://github.com/micc83/editTable) | :heavy_check_mark: | -
+jQery Data Table | jQuery Data DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table | [jQery Data Table](https://datatables.net/) | - | :heavy_check_mark: | -
+
+
+
+
+  > ##### :art: UI Elements - Toolbar
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+ Toolbar.js | A jQuery plugin that creates tooltip style toolbars | [Toolbar.js](http://paulkinzett.github.io/toolbar/) |  [Toolbar.js](https://github.com/paulkinzett/toolbar) | :heavy_check_mark: | MIT
+ 
+ 
+   > ##### :art: UI Elements - Tabs
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+Tabulous.js | A fantastic jQuery plugin to help you create tabs, easily | [Tabulous.js](http://git.aaronlumsden.com/tabulous.js) | [Tabulous.js](https://github.com/aarondo/tabulous.js) | :heavy_check_mark: | -
+NanoTabs | That's right - beautiful tabs in a nano sized plugin | [NanoTabs](www.sunsean.com/nanotabs/) | - | - | -
+
+
+
+   > ##### :art: UI Elements - WYSIWYG
+   Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
+ -----|-------------|--------------|-----------|---------------------------|----------------|
+ SirTrevor | A beautiful rich content editor reimagined for web | [SirTrevor](http://madebymany.github.io/sir-trevor-js/) | [SirTrevor](https://github.com/madebymany/sir-trevor-js) | :heavy_check_mark: | MIT 
+
+
+
 
