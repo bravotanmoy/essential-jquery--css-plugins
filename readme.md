@@ -241,12 +241,13 @@ jQuery Custom Content Scrolle | Highly customizable custom scrollbar jQuery plug
 
 
 
-  > ##### :art: UI Elements - Tables
+  > ##### :clipboard: UI Elements - Tables
    Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
  -----|-------------|--------------|-----------|---------------------------|----------------|
 TableCloth.js | Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations | -| [TableCloth.js](https://github.com/bwsewell/tablecloth) | :heavy_check_mark: | MIT
 EditTable | Adds editing capability in your table elements | [EditTable](http://codeb.it/edittable/) | [EditTable](https://github.com/micc83/editTable) | :heavy_check_mark: | -
 jQery Data Table | jQuery Data DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table | [jQery Data Table](https://datatables.net/) | - | :heavy_check_mark: | -
+EditableGrid  | It is an open source Javascript library aimed at turning HTML tables into advanced editable components. It focuses on simplicity: only a few lines of code are required to get your first table up and running | [EditableGrid](http://www.editablegrid.net/en/) | [EditableGrid](https://github.com/webismymind/editablegrid) | :heavy_check_mark: | MIT
 
 
 
