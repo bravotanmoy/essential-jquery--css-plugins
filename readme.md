@@ -30,7 +30,7 @@
  ElementTransitions.js | Simple & beautiful transitions for web pages |[ElementTransitions.js](http://dan-silver.github.io/ElementTransitions/) |[ElementTransitions.js](https://github.com/dan-silver/ElementTransitions) | :x: | MIT
  Typed.js | A JavaScript text Typing Animation Library | [Typed.js](http://www.mattboldt.com/demos/typed-js/) | [Typed.js](https://github.com/mattboldt/typed.js/) | :heavy_check_mark: | MIT
 Border Animation Effect | SVG Border Animation Effect | [Border Animation Effect ](https://tympanus.net/Tutorials/BorderAnimationSVG/) | -| :x: | -
-Hover Effect Ideas | An inspirational collection of subtle hover effects | [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index.html) | -| -| :heavy_check_mark: | -
+Hover Effect Ideas | An inspirational collection of subtle hover effects | [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index.html) | -| :heavy_check_mark: | -
 The Shapes of CSS | All of the below use only a single HTML element. Any kind of CSS goes, as long as it's supported in at least one browser| [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/) | -| :heavy_check_mark: | -
 Hover.css| A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on | [Hover.css](http://ianlunn.github.io/Hover/) | [Hover.css](https://github.com/IanLunn/Hover)| :x: | MIT
 Premium CSS Hover | Premium CSS hover| [Premium CSS Hover](http://hover-effects-builder.seawebster.com/templates/)| -| :x:| Premium
