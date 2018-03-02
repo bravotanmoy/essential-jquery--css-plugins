@@ -130,6 +130,9 @@ Select 2 | Select 2 is a jQuery based replacement for select boxes. It supports 
 Parsley | Javascript form validation, without actually writing a single line of javascript | [parsleyjs](http://parsleyjs.org/) | [ParsleyJS](https://github.com/guillaumepotier/Parsley.js) | :heavy_check_mark: | MIT
 
 
+Validation Engine | Javascript plugin aimed at the validation of form fields in the browser (IE 6-8, Chrome, Firefox, Safari, Opera 10) | [Validation Engine](http://posabsolute.github.io/jQuery-Validation-Engine/) | [Validation Engine](https://github.com/posabsolute/jQuery-Validation-Engine) | :heavy_check_mark: | MIT
+
+
 
 
    > ##### :hourglass:  Lazy Loading
