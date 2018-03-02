@@ -128,8 +128,6 @@ Choosen | A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes | [Choosen](h
 FancySelect | A better select for discerning web developers everywhere | -| [FancySelect](https://github.com/paulstraw/FancySelect) | :heavy_check_mark: | MIT
 Select 2 | Select 2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results | [select 2](https://select2.org/)| [Select2](https://github.com/select2/select2) | :heavy_check_mark: | MIT|
 Parsley | Javascript form validation, without actually writing a single line of javascript | [parsleyjs](http://parsleyjs.org/) | [ParsleyJS](https://github.com/guillaumepotier/Parsley.js) | :heavy_check_mark: | MIT
-
-
 Validation Engine | Javascript plugin aimed at the validation of form fields in the browser (IE 6-8, Chrome, Firefox, Safari, Opera 10) | [Validation Engine](http://posabsolute.github.io/jQuery-Validation-Engine/) | [Validation Engine](https://github.com/posabsolute/jQuery-Validation-Engine) | :heavy_check_mark: | MIT
 
 
