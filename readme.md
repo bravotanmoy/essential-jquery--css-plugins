@@ -6,6 +6,8 @@
 
  **:dollar: :credit_card: No Commercial plugins, unless it has a free version :moneybag::money_with_wings:**
  
+ :green_book: Symbol That is notify it's not a plugin, It's a documents about something 
+ 
  > ##### :city_sunrise: Carousels & Slider
 
  Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
@@ -22,7 +24,7 @@
  
  
  
-   > ##### :balloon: CSS3 Animations / Transitions / CSS3 Elements
+   > ##### :balloon: CSS3 Animations / Transitions / CSS3 Elements / CSS Documents
    Name | Description | WebSite :earth_asia: | GitHub:octocat: | jQuery :white_check_mark: |  License :hammer:
  -----|-------------|--------------|-----------|---------------------------|----------------| 
  Transit | Super-smooth CSS transitions & transformations for jQuery | [Transit](http://ricostacruz.com/jquery.transit) | [Transit](https://github.com/rstacruz/jquery.transit) | :heavy_check_mark: | MIT
@@ -34,7 +36,8 @@ Hover Effect Ideas | An inspirational collection of subtle hover effects | [Hove
 The Shapes of CSS | All of the below use only a single HTML element. Any kind of CSS goes, as long as it's supported in at least one browser| [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/) | -| :heavy_check_mark: | -
 Hover.css| A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on | [Hover.css](http://ianlunn.github.io/Hover/) | [Hover.css](https://github.com/IanLunn/Hover)| :x: | MIT
 Premium CSS Hover | Premium CSS hover| [Premium CSS Hover](http://hover-effects-builder.seawebster.com/templates/)| -| :x:| Premium
-Background Image | Some simple background image| [Background Image](https://www.toptal.com/designers/subtlepatterns/)| -| :x:| -
+Background Image | Some simple background Images| [Background Image](https://www.toptal.com/designers/subtlepatterns/)| -| :x:| -
+Guide of Flexbox | A Complete Guide to CSS Flexbox | [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |-|:green_book:| -
 
 
 
